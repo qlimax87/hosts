@@ -942,7 +942,6 @@ req1.appads.com
 req2.appads.com
 req3.appads.com
 swappit.tapad.com
-campaign-tapad.s3.amazonaws.com
 adsrv1.tapad.com
 ads1.mojiva.com
 ads2.mojiva.com
@@ -1003,13 +1002,6 @@ cdn.mdotm.com
 ads2.greystripe.com
 adsx.greystripe.com
 c.greystripe.com
-aax-us-east.amazon-adsystem.com
-aax-us-west.amazon-adsystem.com
-s.amazon-adsystem.com
-admarvel.s3.amazonaws.com
-html5adkit.plusmo.s3.amazonaws.com
-inneractive-assets.s3.amazonaws.com
-strikeadcdn.s3.amazonaws.com
 a.admob.com
 analytics.admob.com
 c.admob.com
@@ -1022,7 +1014,6 @@ mobileads.msn.com
 aos.wall.youmi.net
 au.youmi.net
 coconuts.boy.jp
-iacpromotion.s3.amazonaws.com
 plugin.2easydroid.com
 adimg3.search.naver.net
 ads.adadapted.com
