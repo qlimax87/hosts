@@ -1,28 +1,3 @@
-books
-guestbook
-hosts
-  text file
-  rss feed
-  ipv6
-  ipv6 text file
-  0.0.0.0
-  0 text file
-  ipv6 0
-  ipv6 0 text file
-  old macs
-  0 old macs
-photos
-siteoftheday
-
-
-home
-
-
-
-
- Hosted by:
-  theorem.ca
-how to make the internet not suck (as much)
 # This hosts file is brought to you by Dan Pollock and can be found at
 # http://someonewhocares.org/hosts/
 # You are free to copy and distribute this file for non-commercial uses,
@@ -1383,7 +1358,6 @@ scrooge.wnbc.com
 scrooge.wsoctv.com
 scrooge.wtov9.com
 sdc.rbistats.com
-sdogiu.bestamazontips.com
 se.sitestat.com
 searchadv.com
 secure-gg.imrworldwide.com
@@ -4476,8 +4450,6 @@ zfm.oewabox.at
 #</maybe-ads>
 
 # ads
-#aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
-#s.amazon-adsystem.com	# may interfere with Amazon ad preferences
 0101011.com
 0427d7.se
 0d79ed.r.axf8.net
@@ -4648,12 +4620,7 @@ aa.newsblock.dt00.net
 aa.newsblock.marketgid.com
 aads.treehugger.com
 aams1.aim4media.com
-aan.amazon.com
 aarth.net
-aax-cpm.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
-aax-us-pdx.amazon-adsystem.com
-aax.amazon-adsystem.com
 ab-gb.mgid.com
 ab913aa797e78b3.com
 abcnews.footprint.net
@@ -5127,7 +5094,6 @@ ad8digital.checkm8.com
 ad9.bannerbank.ru
 ad9.checkm8.com
 ad9digital.checkm8.com
-adagiobanner.s3.amazonaws.com
 adaos-ads.net
 adap.tv
 adapd.com
@@ -7005,7 +6971,6 @@ alternativhirek.blogspot.hu
 altfarm.mediaplex.com
 alxsite.com
 amazinggreentechshop.com
-amazon-adsystem.com
 amch.questionmarket.com
 americansingles.click-url.com
 amplify.outbrain.com
@@ -7184,7 +7149,6 @@ assets.igapi.com
 assets.kixer.com
 assets.kromtech.net
 assets.percentmobile.com
-assoc-amazon.com
 asv.nuggad.net
 at-adserver.alltop.com
 at-img1.tdimg.com
@@ -7541,7 +7505,6 @@ c.adexchangemachine.com
 c.admob.com
 c.adroll.com
 c.am10.ru
-c.amazon-adsystem.com
 c.anytrx.com
 c.ar.msn.com
 c.as-us.falkag.net
@@ -8273,7 +8236,6 @@ dqs001.adtech.de
 dqs001.adtech.fr
 dqs001.adtech.us
 dr.soso.com
-dra.amazon-adsystem.com
 drecentreshu.info
 drmcmm.baidu.com
 drovederuifswfe.info
@@ -8492,7 +8454,6 @@ floatingads.madisonavenue.com
 floridat.app.ur.gcion.com
 flower.bg
 flowers-offer.com
-fls-na.amazon-adsystem.com
 flu23.com
 fm3cafe.hu
 fmads.osdn.com
@@ -9168,8 +9129,6 @@ iq001.adtech.de
 iq001.adtech.fr
 iq001.adtech.us
 iqoption.com
-ir-de.amazon-adsystem.com
-ir-na.amazon-adsystem.com
 ir2.beap.gemini.yahoo.com
 is.casalemedia.com
 isg01.casalemedia.com
@@ -9524,7 +9483,6 @@ macshield8.club
 macskajaj.net
 mad2.brandreachsys.com
 madadsmedia.com
-mads.amazon-adsystem.com
 mads.aol.com
 mads.cnet.com
 mads.dailymail.co.uk
@@ -9734,10 +9692,6 @@ mobile-browser.me
 mobile.bet.pt
 mobile.juicyads.com
 mobileads.msn.com
-mobileanalytics.us-east-1.amazonaws.com
-mobileanalytics.us-east-2.amazonaws.com
-mobileanalytics.us-west-1.amazonaws.com
-mobileanalytics.us-west-2.amazonaws.com
 mobileleads.msn.com
 mobrevflwms.com
 mobscan.info
@@ -10458,7 +10412,6 @@ protection.stpolice.com
 proximityads.flipcorp.com
 proxy.blogads.com
 prpops.com
-ps-us.amazon-adsystem.com
 ps.eyeota.net
 ps.popcash.net
 ps4ux.com
@@ -10560,9 +10513,6 @@ rc.rlcdn.com
 rc.wl.webads.nl
 rccl.bridgetrack.com
 rcdna.gwallet.com
-rcm-images.amazon.com
-rcm-it.amazon.it
-rcm-na.amazon-adsystem.com
 rdsa2012.com
 re.directrev.com
 re.kontera.com
@@ -11587,7 +11537,6 @@ ubmcmm.baidustatic.com
 ucstat.baidu.com
 ud.adkmob.com
 udarem.com
-uedata.amazon.com
 uelbdc74fn.s.ad6media.fr
 uf2.svrni.ca
 ugo.eu-adcenter.net
@@ -11958,8 +11907,6 @@ winprizesapp.com
 wm.baidu.com
 wmedia.adk2x.com
 wmedia.rotator.hadj7.adjuggler.net
-wms-eu.amazon-adsystem.com
-wms-na.amazon-adsystem.com
 wonderlandads.com
 worden.samenresultaat.nl
 wordplaywhiz.com
@@ -11969,8 +11916,6 @@ wowanalytics.co.uk
 wpad.cinci.rr.com
 wpadx.com
 wppluginspro.com
-ws-ea.amazon-adsystem.com
-ws-na.amazon-adsystem.com
 ws.addthis.com
 wtp101.com
 ww1.flashx.net
@@ -13139,7 +13084,6 @@ yt-adblocker.com
 ytaahg.vo.llnwd.net
 yumenetworks.com
 yx-in-f108.1e100.net
-z-na.amazon-adsystem.com
 z.admob.com
 z.blogads.com
 z.ceotrk.com
@@ -14903,40 +14847,3 @@ secure.flashtalking.com
 statsfe2.ws.microsoft.com
 telemetry.appex.bing.net
 wes.df.telemetry.microsoft.com
-#</Windows10>
-
-# Acknowledgements
-# I'd like to thank the following people for submitting sites, and
-# helping promote the site.
-
-# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook, 
-#  Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff
-#  Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi,
-#  Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh,
-#  bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus,
-#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing 
-#  Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage,
-#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz, 
-#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas 
-#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, 
-#  Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
-#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike 
-#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, 
-#  Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
-#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, 
-#  Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn,
-#  Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons,
-#  Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen,
-#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles 
-#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey 
-#  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
-#  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
-#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
-#  Marschall, Michael Tompkins, Michael O'Donnell, José Lucas Teixeira
-#  de Oliveira, M. Ömer Gölgeli, and Anthony Gelibert for helping to build 
-#  the hosts file.
-# Russell O'Connor for OS/2 information
-# kwadronaut for Windows 7 and Vista information
-# John Mueller and Lawrence H Smith for Mac Pre-OSX information
-# Jesse Baird for the Cisco IOS script
-Sat Jan 2 20:29:37 2021top
