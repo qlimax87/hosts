@@ -1880,170 +1880,26 @@ altrooz.com
 # [am15.net]
 am15.net
 
-# [amazon-adsystem.com]
-aan.amazon-adsystem.com
-aax.amazon-adsystem.com
-aax-eu-retail-direct.amazon-adsystem.com
-aax-fe.amazon-adsystem.com
-aax-fe-sin.amazon-adsystem.com
-aax-us.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
-c.amazon-adsystem.com
-cdn-a.amazon-adsystem.com
-fls-eu.amazon-adsystem.com
-fls-fe.amazon-adsystem.com
-fls-na.amazon-adsystem.com
-mads.amazon-adsystem.com
-s.amazon-adsystem.com
-vaes.amazon-adsystem.com
-ws-eu.amazon-adsystem.com
-z-eu.amazon-adsystem.com
 
-# [amazon.ae]
-fls-eu.amazon.ae
 
-# [amazon.ca]
-fls-na.amazon.ca
 
-# [amazon.cn]
-fls-cn.amazon.cn
 
-# [amazon.co.jp]
-aan.amazon.co.jp
-advertising.amazon.co.jp
-fls-fe.amazon.co.jp
 
-# [amazon.co.uk]
-aan.amazon.co.uk
-advertising.amazon.co.uk
-fls-eu.amazon.co.uk
 
-# [amazon.com]
-aan.amazon.com
-aax-us-iad.amazon.com
-device-metrics-us.amazon.com
-device-metrics-us-2.amazon.com
-fls-cn.amazon.com
-fls-eu.amazon.com
-fls-fe.amazon.com
-fls-na.amazon.com
-mads.amazon.com
 
-# [amazon.com.au]
-fls-fe.amazon.com.au
 
-# [amazon.com.br]
-fls-na.amazon.com.br
 
-# [amazon.com.mx]
-fls-na.amazon.com.mx
 
-# [amazon.de]
-fls-eu.amazon.de
 
-# [amazon.es]
-fls-eu.amazon.es
 
-# [amazon.fr]
-fls-eu.amazon.fr
 
-# [amazon.in]
-fls-eu.amazon.in
 
-# [amazon.it]
-fls-eu.amazon.it
 
-# [amazon.nl]
-fls-eu.amazon.nl
 
-# [amazon.sa]
-fls-eu.amazon.sa
 
-# [amazon.se]
-fls-eu.amazon.se
 
-# [amazon.sg]
-fls-fe.amazon.sg
 
-# [amazonaws.com]
-ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
-adserver-1277986481.ap-northeast-1.elb.amazonaws.com
-adserver-vpc-alb-0-649637586.ap-northeast-1.elb.amazonaws.com
-adserver-vpc-alb-1-769379334.ap-northeast-1.elb.amazonaws.com
-data-collect-337392791.ap-northeast-2.elb.amazonaws.com
-tercept-serve-beacon-543813600.ap-south-1.elb.amazonaws.com
-ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
-ads-816899299.ap-southeast-1.elb.amazonaws.com
-adsimg-kompascom-1349122490.ap-southeast-1.elb.amazonaws.com
-rw-yieldmo-com-1673518954.ap-southeast-1.elb.amazonaws.com
-tracking-1659963975.ap-southeast-1.elb.amazonaws.com
-uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
-adserver-clarium-1405844056.eu-central-1.elb.amazonaws.com
-admantx-cluster-nlb-eu-2071973585.eu-west-1.elb.amazonaws.com
-adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
-appsflyer-web-sdk-500562466.eu-west-1.elb.amazonaws.com
-beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
-prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
-adktracking-1671721947.eu-west-3.elb.amazonaws.com
-adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com
-adserver-2084671375.us-east-1.elb.amazonaws.com
-adserver-clarium-446793891.us-east-1.elb.amazonaws.com
-adserver-vpc-alb-0-2072243822.us-east-1.elb.amazonaws.com
-adserver-vpc-alb-1-2048135467.us-east-1.elb.amazonaws.com
-adserver-vpc-alb-2-1898430250.us-east-1.elb.amazonaws.com
-adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
-adzerk-proxy-705050069.us-east-1.elb.amazonaws.com
-analytics-collector-28944298.us-east-1.elb.amazonaws.com
-audience-164723144.us-east-1.elb.amazonaws.com
-engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
-log-collectors-73517960.us-east-1.elb.amazonaws.com
-lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
-nova-collector-1192479543.us-east-1.elb.amazonaws.com
-pixel-967319188.us-east-1.elb.amazonaws.com
-prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com
-rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
-tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
-tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
-tracking-1611167402.us-east-1.elb.amazonaws.com
-vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
-wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
-ads-b-480313385.us-west-1.elb.amazonaws.com
-ads-c-1854119718.us-west-1.elb.amazonaws.com
-adserver-clarium-1718981494.us-west-1.elb.amazonaws.com
-adserver-vpc-alb-0-2075095491.us-west-2.elb.amazonaws.com
-adserver-vpc-alb-1-725730730.us-west-2.elb.amazonaws.com
-adserver-vpc-alb-2-553366957.us-west-2.elb.amazonaws.com
-adserver-vpc-alb-3-578630024.us-west-2.elb.amazonaws.com
-adtag-or2-697022674.us-west-2.elb.amazonaws.com
-adtrue-track-server-1082517350.us-west-2.elb.amazonaws.com
-beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
-dco-jads-727222375.us-west-2.elb.amazonaws.com
-insight-1616140656.us-west-2.elb.amazonaws.com
-prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
-rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com
-tag-adtrue-com-1341320338.us-west-2.elb.amazonaws.com
-wildcard-ads-448740142.us-west-2.elb.amazonaws.com
-admarvel.s3.amazonaws.com
-adpublisher.s3.amazonaws.com
-advancelocal-adapter-image-uploads.s3.amazonaws.com
-advrts.s3.amazonaws.com
-analytics.s3.amazonaws.com
-tapps.analytics.s3.amazonaws.com
-com.tapps.analytics.s3.amazonaws.com
-br.com.tapps.analytics.s3.amazonaws.com
-btf-analytics.s3.amazonaws.com
-chartbeat-sdk.s3.amazonaws.com
-chartiq-client-prod.s3.amazonaws.com
-clickwallads.s3.amazonaws.com
-ignifyecom.s3.amazonaws.com
-incoming-data-sense360.s3.amazonaws.com
-nativead.s3.amazonaws.com
-yieldify-static-files.s3.amazonaws.com
-later-analytics-reports.s3-accelerate.amazonaws.com
-mobileanalytics.us-east-1.amazonaws.com
 
-# [amazonsilk.com]
-global.cmcs.service.amazonsilk.com
 
 # [ambient-platform.com]
 ambient-platform.com
@@ -4419,7 +4275,6 @@ dotomi.com
 adobe-sync.dotomi.com
 ads.dotomi.com
 afp.dotomi.com
-amazon-tam-match.dotomi.com
 ams-usadmm.dotomi.com
 ams01-convex.dotomi.com
 ams01-login.dotomi.com
